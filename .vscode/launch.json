@@ -5,10 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Dart",
+            "name": "example",
             "type": "dart",
             "request": "launch",
             "program": "example/lib/main.dart"
+        },
+        {
+            "name": "readme",
+            "type": "dart",
+            "request": "launch",
+            "program": "example/lib/readme.dart"
         },
     ]
 }
